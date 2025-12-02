@@ -22,6 +22,10 @@
 | Security Group         | Web-Tier-SG                    | –            | –         | Only 80 + 443 open |
 | IAM Role               | EC2-SSM-Role                   | –            | –         | AmazonSSMManagedInstanceCore + CloudWatch |
 
+<img width="635" height="103" alt="image" src="https://github.com/user-attachments/assets/342808aa-d129-4a9a-9004-b716da342f2f" />
+
+<img width="887" height="353" alt="image" src="https://github.com/user-attachments/assets/f1a26974-4e6a-4716-8c1e-dd5fba8d3a68" />
+
 
 
 ### User Data Script (user-data.sh)
