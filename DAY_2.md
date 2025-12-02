@@ -6,7 +6,7 @@
 
 
 ### What We Proved Today (2025 Market Gold)
-| Feature                        | Why Companies Pay 50–80 LPA for This |
+| Feature                        | Dis |
 |--------------------------------|---------------------------------------|
 | User Data scripting            | Zero manual login → full automation   |
 | No SSH keys, no port 22        | Meets SOC2, ISO27001, PCI-DSS         |
