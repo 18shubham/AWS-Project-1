@@ -9,7 +9,7 @@ AWS/Cloud Project Deatils
 
 ### Why We Did Each Step (Real-World Reasoning – Put This in Interviews!)
 
-| Step | What We Did | Why It Matters in Real Jobs (2025 Market) |
+| Step | What We Did | Why It Matters |
 |------|-------------|--------------------------------------------|
 | 1. Installed & configured AWS CLI v2 | Local terminal → `aws configure --profile day1` | 90% of senior engineers never touch console. CLI + scripts = speed, repeatability, IaC foundation |
 | 2. Secured root + created admin IAM user | MFA on root + AdministratorAccess user | First thing auditors check. Root keys never used again |
